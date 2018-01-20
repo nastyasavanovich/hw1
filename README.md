@@ -21,7 +21,7 @@
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”  
 > ― Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches  
 Вот ссылка на мою страницу в ВК:  
-[ссылка](https://vk.com/id157005825)  
+[ссылка](https://vk.com/id157005825) 
 А вот моя фоторграфия  
 ![Image alt](https://github.com/nastyasavanovich/hw1/blob/master/DSC02262.JPG) 
 Расписание моей подргуппы
@@ -31,9 +31,9 @@
 | Цифровая граммотность | Практика речи      | Фонетика        |Практика речи    | МКН    |
 | Цифровая граммотность | Испанский          | Грамматика      |Практика речи    | МКН    |
 
-| Понедельник   | Это                | Круто | jhgjgj |
-| ------------- |:------------------:| -----:|-------:|
-| Цифр. грамм.  | выровнен вправо    | $1600 |hihib   |
-| Цифр. грамм.  | bhjchjdhvjhdv      |   $12 |        |
-|               | прикольные         |    $1 |        |
+| Понедельник   | Вторник            | Среда  | jhgjgj |
+| ------------- |:------------------:| -----: |-------:|
+| Цифр. грамм.  | Латинский язык     | Англ яз|hihib   |
+| Цифр. грамм.  | Практика речи      |   $12 |        |
+|               | Испанский          |    $1 |        |
 
