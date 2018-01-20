@@ -23,5 +23,5 @@
 Вот ссылка на мою страницу в ВК:  
 [ссылка](https://vk.com/id157005825)  
 А вот моя фоторграфия  
-![alt-текст](https://vk.com/photo157005825_456240039)
+![Image alt](https://github.com/nastyasavanovich/raw/{branch}/{path}/image.png)
 
