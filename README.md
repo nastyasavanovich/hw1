@@ -24,4 +24,3 @@
 [ссылка](https://vk.com/id157005825)  
 А вот моя фоторграфия  
 ![Image alt](https://github.com/nastyasavanovich/hw1/blob/master/DSC02262.JPG)
-
