@@ -17,7 +17,9 @@
 12. Физическая культура
 13. Философия
 14. Цифровая грамотность  
-Одна из моих любимых цитат:  
+*Одна из моих любимых цитат:*  
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”  
-> ― Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches 
+> ― Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches  
+Вот ссылка на мою страницу в ВК:  
+[ссылка](https://vk.com/id157005825)
 
