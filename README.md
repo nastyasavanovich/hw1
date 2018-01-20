@@ -21,5 +21,7 @@
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”  
 > ― Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches  
 Вот ссылка на мою страницу в ВК:  
-[ссылка](https://vk.com/id157005825)
+[ссылка](https://vk.com/id157005825)  
+А вот моя фоторграфия  
+![alt-текст](https://vk.com/id157005825?z=photo157005825_456240039%2Falbum157005825_0%2Frev)
 
